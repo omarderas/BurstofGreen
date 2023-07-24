@@ -21,18 +21,18 @@ return(
             <div class="contact-block">
                 <ul>
                     <li>
-                        <a href="">
+                        <a href="tel:+1347-712-3569">
                             
                             <i class="fa fa-phone" aria-hidden="true"></i>
                             <span>Call Us</span><br/>
-                            <span class="second-line">Tel: (501) 615-9097</span>
+                            <span class="second-line">Tel: +1 347-712-3569</span>
                         </a>
                     </li>
                     <li>
-                        <a href="">
+                        <a href="mailto:lorena@burstofgreen.com">
                             <i class="fa fa-envelope" aria-hidden="true"></i>
                             <span>Email Us</span><br />
-                            <span  class="second-line">Email: test@burstofgreen.com</span>
+                            <span  class="second-line">lorena@burstofgreen.com</span>
                         </a>
                     </li>
                     <li>

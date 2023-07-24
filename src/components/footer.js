@@ -23,8 +23,8 @@ function Footer() {
                     <ul className="social">
                                 <li>
                                     <p id="social-main">Stay Connected: </p>
-                                    <a href="" target="_blank"><FaFacebookF /></a>
-                                    <a href="https://www.instagram.com/upsidedowntoursbz/" target="_blank"><FaInstagram /></a>
+                                    <a href="https://www.facebook.com/burstofgreen/" target="_blank"><FaFacebookF /></a>
+                                    <a href="https://www.instagram.com/burstofgreen/?hl=en" target="_blank"><FaInstagram /></a>
                                  
                                 </li>
                             
@@ -35,8 +35,8 @@ function Footer() {
                <div className="footer-content">
                         <h1>Quick Links</h1>
                         <p><a href="/about-us">About Us</a></p>
-                        <p><a href="/all-tours">Our Tours</a></p>
-                        <p><a href="">Combo Deals</a></p>
+                        <p><a href="">Our Plans</a></p>
+                        <p><a href="">Our Services</a></p>
                         <p><a href="/contact-us">Contact Us</a></p>
                
                 </div>
@@ -47,15 +47,16 @@ function Footer() {
                     <p>
                         TEL:
                     </p>
-                    <a href="tel:5016345385">+(501) 634-5385</a>
+                    <a href="tel:+1347-712-3569">+1 347-712-3569</a>
                     <p>
                         EMAIL:
                     </p>
-                    <a href="mailto:info@upsidedowntours.com">info@upsidedowntours.com</a>
+                    <a href="mailto:lorena@burstofgreen.com">lorena@burstofgreen.com</a>
                     <p>
-                        OFFICE HOURS:
+                        Hours of Service:
                     </p>
-                    <a href="">Mon - Sun, 8:00am to 4:00pm CST</a>
+                    <a href="">Mon - Sat 8:00am to 6:00pm</a><br />
+                    <a href="">Sunday Closed</a>
                 </div>
             </div>
 
