@@ -17,7 +17,7 @@ function Welcome() {
                         <div class="col-sm-3 first">
                                 <a href="">
                                 <div class="row certified">
-                                <StaticImage src="../../../images/certified1.PNG" />
+                                <StaticImage src="../../../images/certified.png" />
                                 <h3>Certified</h3><br/><span><p><br />Expert employees qualified for professional service.</p></span>
                                 </div>
                                 </a>
